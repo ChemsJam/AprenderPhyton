@@ -51,7 +51,7 @@ print(myStr.isalpha())
 print(myStr[4])
 
 #formas de concatenar una variable
-nStr = Johan
+nStr = "Johan"
 
 print("My name is " + nStr)
 
